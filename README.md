@@ -1,6 +1,6 @@
 # Horiseon Code Refactor
 
-[Link to Deployed Application](https://505laura.github.io/module-1-challenge)
+[Link to Deployed Application](https://505laura.github.io/horiseon-code-refactor)
 
 ## Description
 
@@ -8,7 +8,7 @@ This code is designed to adhere to accessibility standards through optimizing it
 
 ## Visuals
 
-![Webpage](https://github.com/505laura/module-1-challenge/raw/283fafbbe64b398c721cc3047922896a988f98fe/assets/images/readme-image/horiseon-webpage.png)
+![Webpage](https://github.com/505laura/horiseon-code-refactor/blob/main/assets/images/readme-image/horiseon-webpage.png?raw=true)
 
 ## Usage
 
